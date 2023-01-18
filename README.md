@@ -7,10 +7,10 @@
 
 ## スキル
 - Unity
-  - 利用歴〇年
+  - 利用歴1年
   - オリジナルの個人/チーム作品の開発経験あり
 - C/C++
-  - 利用歴〇年
+  - 利用歴1年
   - コンソールで簡単なデータ処理プログラムを開発
 
 
@@ -27,8 +27,8 @@
 [避け取る　荒れの森](https://unityroom.com/games/yoketoru2022-sample)
 
 - 開発環境：Unity
+- 開発期間：二週間
 
 ## 連絡先
 - E-mail [laybaekzhang@gmail.com](mailto:laybaekzhang@gmail.com)
 
-[練習](prac.md)
