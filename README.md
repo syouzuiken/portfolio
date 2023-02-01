@@ -38,7 +38,7 @@
 Enterで開始、左右矢印で動き、時間終わりまで線を避ける
 
 - 開発環境：Unity
-- 開発期間：一日
+- 開発期間：一週間
 
 ## 連絡先
 - E-mail [laybaekzhang@gmail.com](mailto:laybaekzhang@gmail.com)
