@@ -6,6 +6,9 @@
 ## 資格
 
 ## スキル
+- Unreal Engine 
+  - 利用歴1年
+  - チーム作品の開発経験あり
 - Unity
   - 利用歴1年
   - オリジナル作品の開発経験あり
@@ -18,9 +21,14 @@
 
 
 ## 取り組んでいるテーマ
-1. Unityでオリジナルゲーム開発
+1.Unreal Engineでチーム作品開発
+2.Unityでオリジナルゲーム開発
 
 ## 作品リスト
+### 疾陰の駆者
+![ScreenShot00000](https://github.com/syouzuiken/portfolio/assets/104043872/78023ea0-0187-417f-8179-297acc79f2de)
+- 開発環境：Unreal Engine
+- 開発期間：開発中
 
 ### 避け取る　荒れの森
 [<img src="images/避け取る　荒れの森.png" alt="避け取る　荒れの森" style="height: 360px">](https://)
