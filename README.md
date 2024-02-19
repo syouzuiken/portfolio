@@ -22,9 +22,8 @@
   - Visual Studioで独自のツールの作成が可能
 
 ## 取り組んでいるテーマ
-1.Unreal Engineでチーム作品開発
-
-2.Unityでオリジナルゲーム開発
+- Unreal Engineでチーム作品開発
+- Unityでオリジナルゲーム開発
 
 ## 作品リスト
 ### 疾陰の駆者
