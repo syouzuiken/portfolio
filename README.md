@@ -39,7 +39,7 @@
 [避け取る　荒れの森](https://unityroom.com/games/yoketoru2022-sample)
 
 - 開発環境：Unity
-- 開発期間：二週間
+- 開発期間：一週間
 
 ### RESPIRAL
 ![RESPIRAL](https://user-images.githubusercontent.com/104043872/214456308-4f6d5587-b2d1-4817-a075-7497aa5973ad.png)
