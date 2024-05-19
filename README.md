@@ -29,9 +29,9 @@
 ### 疾陰の駆者
 ![ScreenShot00000](https://github.com/syouzuiken/portfolio/assets/104043872/78023ea0-0187-417f-8179-297acc79f2de)
 
-Demo video：https://www.youtube.com/watch?v=XAqnbhxmeEE
+Demo video：[Yotube](https://www.youtube.com/watch?v=XAqnbhxmeEE)
 
-DEMO Download：https://www.freem.ne.jp/win/game/32196
+DEMO Download：[Freem](https://www.freem.ne.jp/win/game/32196)
 
 - 開発環境：Unreal Engine 5
 - 開発期間：三ヶ月
@@ -41,7 +41,7 @@ DEMO Download：https://www.freem.ne.jp/win/game/32196
 
 マウスで開始、矢印で動き、敵避け、コインを取る
 
-Play Version：https://unityroom.com/games/yoketoru2022-sample
+Play Version：[Unityroom](https://unityroom.com/games/yoketoru2022-sample)
 
 - 開発環境：Unity
 - 開発期間：一週間
