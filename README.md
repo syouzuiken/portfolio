@@ -31,7 +31,7 @@
 
 Demo video：[Yotube](https://www.youtube.com/watch?v=XAqnbhxmeEE)
 
-DEMO Download：[Freem](https://www.freem.ne.jp/win/game/32196)
+DEMO download：[Freem](https://www.freem.ne.jp/win/game/32196)
 
 - 開発環境：Unreal Engine 5
 - 開発期間：三ヶ月
@@ -41,7 +41,7 @@ DEMO Download：[Freem](https://www.freem.ne.jp/win/game/32196)
 
 マウスで開始、矢印で動き、敵避け、コインを取る
 
-Play Version：[Unityroom](https://unityroom.com/games/yoketoru2022-sample)
+Play now：[Unityroom](https://unityroom.com/games/yoketoru2022-sample)
 
 - 開発環境：Unity
 - 開発期間：一週間
