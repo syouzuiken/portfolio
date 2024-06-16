@@ -48,7 +48,7 @@ Play now：[Unityroom](https://unityroom.com/games/yoketoru2022-sample)
 - 開発期間：一週間
 
 ### RESPIRAL
-[<img src="images/RESPIRAL.png" alt="RESPIRAL" style="height: 360px">](https://)
+[<img src="images/Respiral.png" alt="Respiral" style="height: 360px">](https://)
 
 Enterで開始、矢印あるいはWASDで動き、線を避け、時間内生きる
 
