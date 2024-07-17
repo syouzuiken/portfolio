@@ -30,7 +30,7 @@
 ## 作品リスト
 ### 疾陰の駆者
 ![ScreenShot00000](https://github.com/syouzuiken/portfolio/assets/104043872/78023ea0-0187-417f-8179-297acc79f2de)
-[<img src="images/Credits.png" alt="Credits" style="height: 360px">](https://)
+[<img src="images/Credits.png" alt="Credits" style="height: 720px">](https://)
 
 Demo video：[Yotube](https://www.youtube.com/watch?v=XAqnbhxmeEE)
 
