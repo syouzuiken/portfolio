@@ -30,7 +30,7 @@
 ## 作品リスト
 ### 疾陰の駆者
 ![ScreenShot00000](https://github.com/syouzuiken/portfolio/assets/104043872/78023ea0-0187-417f-8179-297acc79f2de)
-[<img src="images/Credits.png" alt="Credits" style="width: 1080px;height: 480px">](https://)
+[<img src="images/Credits.png" alt="Credits" style="width: 1080px;height: 540px">](https://)
 
 Demo video：[Yotube](https://www.youtube.com/watch?v=XAqnbhxmeEE)
 
@@ -40,7 +40,7 @@ DEMO download：[Freem](https://www.freem.ne.jp/win/game/32196)
 - 開発期間：三ヶ月
 
 ### 避け取る　荒れの森
-[<img src="images/避け取る　荒れの森.png" alt="避け取る　荒れの森" style="width: 1080px;height: 480px">](https://)
+[<img src="images/避け取る　荒れの森.png" alt="避け取る　荒れの森" style="width: 1080px;height: 540px">](https://)
 
 マウスで開始、矢印で動き、敵避け、コインを取る
 
@@ -52,8 +52,8 @@ Project File: [GoogleDrive](https://drive.google.com/file/d/1nnGnUKpNW8A4In_65O2
 - 開発期間：一週間
 
 ### RESPIRAL
-[<img src="images/Respiral.png" alt="Respiral" style="width: 1080px;height: 480px">](https://)
-[<img src="images/Respiral01.png" alt="Respiral01" style="width: 1080px;height: 480px">](https://)
+[<img src="images/Respiral.png" alt="Respiral" style="width: 1080px;height: 540px">](https://)
+[<img src="images/Respiral01.png" alt="Respiral01" style="width: 1080px;height: 540px">](https://)
 
 Enterで開始、矢印あるいはWASDで動き、線を避け、時間内生きる
 
