@@ -40,7 +40,7 @@ DEMO download：[Freem](https://www.freem.ne.jp/win/game/32196)
 - 開発期間：三ヶ月
 
 ### 避け取る　荒れの森
-[<img src="images/避け取る　荒れの森.png" alt="避け取る　荒れの森" style="height: 360px">](https://)
+[<img src="images/避け取る　荒れの森.png" alt="避け取る　荒れの森" style="height: 720px">](https://)
 
 マウスで開始、矢印で動き、敵避け、コインを取る
 
@@ -52,8 +52,8 @@ Project File: [GoogleDrive](https://drive.google.com/file/d/1nnGnUKpNW8A4In_65O2
 - 開発期間：一週間
 
 ### RESPIRAL
-[<img src="images/Respiral.png" alt="Respiral" style="height: 360px">](https://)
-[<img src="images/Respiral01.png" alt="Respiral01" style="height: 360px">](https://)
+[<img src="images/Respiral.png" alt="Respiral" style="height: 720px">](https://)
+[<img src="images/Respiral01.png" alt="Respiral01" style="height: 720px">](https://)
 
 Enterで開始、矢印あるいはWASDで動き、線を避け、時間内生きる
 
