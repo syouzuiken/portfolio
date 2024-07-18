@@ -48,7 +48,7 @@ Project File：[GigaFile](https://27.gigafile.nu/1026-kaecbcaa4e697a4bf09516de63
 
 Play now：[Unityroom](https://unityroom.com/games/yoketoru2022-sample)
 
-Project File: [GoogleDrive](https://drive.google.com/file/d/1nnGnUKpNW8A4In_65O2oMX9j4dSbE-Ye/view?usp=sharing)
+Project File：[GoogleDrive](https://drive.google.com/file/d/1nnGnUKpNW8A4In_65O2oMX9j4dSbE-Ye/view?usp=sharing)
 
 - 開発環境：Unity
 - 開発期間：一週間
@@ -61,7 +61,7 @@ Enterで開始、矢印あるいはWASDで動き、線を避け、時間内生�
 
 Play now：[Unityroom](https://unityroom.com/games/RESPIRAL-sample)
 
-Project File: [GoogleDrive](https://drive.google.com/file/d/14UqUMc_fBUVO-SXgA2mmnGDFJtdCX1Km/view?usp=sharing)
+Project File：[GoogleDrive](https://drive.google.com/file/d/14UqUMc_fBUVO-SXgA2mmnGDFJtdCX1Km/view?usp=sharing)
 
 - 開発環境：Unity
 - 開発期間：一日
