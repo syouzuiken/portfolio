@@ -36,6 +36,8 @@ Demo video：[Yotube](https://www.youtube.com/watch?v=XAqnbhxmeEE)
 
 DEMO download：[Freem](https://www.freem.ne.jp/win/game/32196)
 
+Project File：[GigaFile](https://27.gigafile.nu/1026-kaecbcaa4e697a4bf09516de63e8852b2)
+
 - 開発環境：Unreal Engine 5
 - 開発期間：三ヶ月
 
